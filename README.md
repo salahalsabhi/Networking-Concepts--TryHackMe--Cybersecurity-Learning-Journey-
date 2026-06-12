@@ -36,7 +36,7 @@ Completed as part of my cybersecurity learning journey on TryHackMe. 🚀
 ---
 
 ---
-LinkedIn :[
+LinkedIn :[https://www.linkedin.com/feed/update/urn:li:activity:7471236180844515329/]
 
 X : [https://x.com/charisma1385/status/2065467284877930530]
 ---
